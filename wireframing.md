@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+# Wireframing
+
+# What is *_WIREFRAMING_*?
+
+A wireframe is a skeletal outline of a webpage or app. Wreframing focuses on spacing and prioritizing  your page content and how things funtion and behave on your website. you can draw this out or frame it using code including hidden notes for you to refer to later ensuring the page layout is how you envisioned it. Wireframing comes before adding any, colors, fonts and images.

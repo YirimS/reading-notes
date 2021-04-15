@@ -19,6 +19,7 @@ VS Code means Visual Studio Code.  VS Code is a code editor with support for dev
 
 <p> In order for your site to go live you'll want to make sure you have went through the A.C.P Flow in Terminal otherwise your site will not be rendered into a live site with the new changes and revisions. it helps to keep a checklist of the process and check them off as they are completed (example below)</p>
 
+<p> To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].</p>
 
 - [x] Add
 - [ ] Commit
