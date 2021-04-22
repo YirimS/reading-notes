@@ -15,3 +15,4 @@
     This information determines how often you may need to update your site.  keeping content fresh and new is key.
 
 After yoiu have gathered this information you can begin to build out your site map. A site map is a diagram of pages used to structure your site. This is how you decide what information is going on what page.
+

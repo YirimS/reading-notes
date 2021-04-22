@@ -18,5 +18,10 @@ Growth mindstate is the idea that individuals can develop their talents through 
 # Table of Contents
 1. [learning markdowns Page](learning_markdowns.md)
 2. [learning terminal Page](learning_terminal.md)
-3. [Revisions Cloud Page](Revisions-Cloud)
+3. [Revisions Cloud Page](Revisions-Cloud.md)
 4. [wireframing Page](wireframing.md)
+5. [structure web pages](structure_web_pages.md)
+6. [reflection and discussion page](reflection_and_discussion.md)
+7. [architecture and logic](architecture_and_logic.md)
+8. [design pages in css page](design_pages_css.md)
+9. [pages with javascript](pages_with_javascript.md)
