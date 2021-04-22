@@ -16,6 +16,7 @@ Growth mindstate is the idea that individuals can develop their talents through 
  *3. Learn how to turn Frustration into Fun*.
  
 # Table of Contents
+## 102 Reading Notes
 1. [learning markdowns Page](learning_markdowns.md)
 2. [learning terminal Page](learning_terminal.md)
 3. [Revisions Cloud Page](Revisions-Cloud.md)
@@ -25,3 +26,20 @@ Growth mindstate is the idea that individuals can develop their talents through 
 7. [architecture and logic](architecture_and_logic.md)
 8. [design pages in css page](design_pages_css.md)
 9. [pages with javascript](pages_with_javascript.md)
+
+## 201 Reading Notes
+1. Place Holder
+2. Place Holder
+3. Place Holder
+3. Place Holder
+5. Place Holder
+6. Place Holder
+7. Place Holder
+8. Place Holder
+9. Place Holder
+10. Place Holder
+11. Place Holder
+12. Place Holder
+13. Place Holder
+14. Place Holder
+15. Place Holder
