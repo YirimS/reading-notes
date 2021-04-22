@@ -1,5 +1,10 @@
 # yirim's reading-notes.
-My name is Yirim Seck and I am the Facilities Manager of a Private School Madison Valley.  I've always had an interest in coding and decided to make the leap after recognizing the growth poitential in the coding sector.  In my free time I enjoy hanging out with my kids and writing and producing music. 
+## A little about myself.
+My name is Yirim Seck and I am the Facilities Manager of a Private School Madison Valley.  I've always had an interest in coding and decided to make the leap after recognizing the growth poitential in the coding sector.  In my free time I enjoy hanging out with my kids, writing and producing music. 
+
+# What this page is all about.
+This page is where you will find all of the Topics I learned with links provided in the table of contents. Each topic has it's on dedicated page of notes explaining that specific topic. you'll also find that some *Reading Note* provide examples of Markdowns, codes and command exmples.
+
 ## What is Growth Mindstate?
 Growth mindstate is the idea that individuals can develop their talents through hard work. It is the belief that you can get smarter with extra time and effort.
 ## Three ways I kep myself in a growth mindstate.
@@ -15,8 +20,8 @@ Growth mindstate is the idea that individuals can develop their talents through 
  
  *3. Learn how to turn Frustration into Fun*.
  
-# Table of Contents
-## 102 Reading Notes
+# Table of Contents.
+## 102 Reading Notes.
 1. [learning markdowns Page](learning_markdowns.md)
 2. [learning terminal Page](learning_terminal.md)
 3. [Revisions Cloud Page](Revisions-Cloud.md)
@@ -27,7 +32,7 @@ Growth mindstate is the idea that individuals can develop their talents through 
 8. [design pages in css page](design_pages_css.md)
 9. [pages with javascript](pages_with_javascript.md)
 
-## 201 Reading Notes
+## 201 Reading Notes.
 1. Place Holder
 2. Place Holder
 3. Place Holder
