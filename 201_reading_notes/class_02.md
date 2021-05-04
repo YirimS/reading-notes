@@ -1,4 +1,4 @@
-#Class 2 Reading Notes
+# Class 2 Reading Notes
 
 **Introduction**
 
