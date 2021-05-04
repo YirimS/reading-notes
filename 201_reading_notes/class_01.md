@@ -28,4 +28,7 @@ HTML Layout is all about screen design and creating a site that is more attracti
 
 it's important for you to know who your target audience ans clientele base is. this is why it is important for you to think about and sketch out your site by either creating a sitemap and or creating a wireframe.  when doing this you can focuses on spacing and prioritizing  your page content. you can then focus on how things funtion and behave on your website. you can draw this out or frame it using code including hidden notes for you to refer to later ensuring the page layout is how you envisioned it. Wireframing comes before adding any, colors, fonts and images.
 
+**The ABC's of Programming**
+before you begin programming your going to first want think about nwhat the goal of your website is. after you have identified the goal of the site you can then to write a script, this can be represented using a flow chart. After the script has been written you can begin coding each step.using HTML markup you create a model of your page.
+
 hopefully these notes give you a better understanding on how to build a site.
