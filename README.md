@@ -33,8 +33,8 @@ Growth mindstate is the idea that individuals can develop their talents through 
 9. [pages with javascript](pages_with_javascript.md)
 
 ## 201 Reading Notes.
-1. Place Holder
-2. Place Holder
+1. [Class review](class_o1.md)
+2. [basics of HTML, CSS & JS](class_02.md)
 3. Place Holder
 3. Place Holder
 5. Place Holder
