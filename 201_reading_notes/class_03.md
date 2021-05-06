@@ -1,6 +1,6 @@
 # list
 
-In HTML there are aseveral different types of list.
+In HTML there are several different types of list.
  - Ordered List
     - this list uses numbers.
 
@@ -15,8 +15,7 @@ In HTML there are aseveral different types of list.
 
 # Boxes
 
-You can use boxe to contain images and informaation making your page layout more visually pleasing.
-you can control the size of the boxes, display and hided boxes, create box models for boarders, margins and padding.  you can control the boarder width, height and style. centering content can be better achieved usingb a box. Controlling the design of your site is all done in CSS. Using CSS you can control the display and visibility.  stylistically you can elyptical shapes and rounded corners. CSS treats each HTML element as if it has it's own box.
+You can use boxes to contain images and information making your page layout more visually pleasing. You can control the size of the boxes, display and hiden boxes, create box models for boarders, margins and padding.  you can control the boarder width, height and style. centering content can be better achieved usingb a box. Controlling the design of your site is all done in CSS. Using CSS you can control the display and visibility.  stylistically you can create elyptical shapes and rounded corners. CSS treats each HTML element as if it has it's own box.
 
 # Arrays
 
@@ -50,16 +49,16 @@ if (score >= 25) {
 }
 
 else {
-  encoutage();
+  encourage();
 }
 
 You can also use loops which check conditions. There are three different types of loops.
 
-  * For Lops
+  * For Loops
     - Used for running code a specific number of times. In for loops the condition is usually a counter which tells how many times a loop should run.
 
   * While Loops
     - you use a while loop if you are not sure how many times the code should run.  the condition can be something other than a counter.
 
   * Do while Loops 
-    - This loop is very simular to the wwhile loop, the only difference is that they will always run statements in the curly brackets
+    - This loop is very simular to the while loop, the only difference is that they will always run statements in the curly brackets
