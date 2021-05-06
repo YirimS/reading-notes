@@ -35,8 +35,8 @@ Growth mindstate is the idea that individuals can develop their talents through 
 ## 201 Reading Notes.
 1. [Class review](class_o1.md)
 2. [basics of HTML, CSS & JS](class_02.md)
-3. Place Holder
-3. Place Holder
+3. [HTML Lists, Control Flow with JS, and the CSS Box Model](class_03.md)
+3. [HTML Links, CSS Layout, JS Functions](class_04.md)
 5. Place Holder
 6. Place Holder
 7. Place Holder
