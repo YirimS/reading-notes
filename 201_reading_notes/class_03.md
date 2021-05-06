@@ -20,12 +20,12 @@ you can control the size of the boxes, display and hided boxes, create box model
 
 # Arrays
 
-An array is a special variable that that stores a list of values. You name arrays just like you would any otheer variableValues are assigned to the array inside of square brackets.
+An array is a special variable that that stores a list of values. You name arrays just like you would any other variable. Values are assigned to the array inside of square brackets.
 
   var colors;
   colors = ['Red', 'Black', 'Green'];
 
-Each ioten in the array is assigned a number starting with zero, called an index.  If you look at the array up above Red = 0, Black = 1, Green = 2. To acces items in the array specify the name and the index number.
+Each iten in the array is assigned a number starting with zero, called an index.  If you look at the array up above Red = 0, Black = 1, Green = 2. To acces items in the array specify the name and the index number.
 
   var itemThree;
   itemThree = colors[2];
@@ -39,7 +39,7 @@ To acess the value from an array by specifying the array name and putting the in
 
   el.textContent = colors[2];
 
-  if you want to write out all of the items in an array you would have to use a loop
+  If you want to write out all of the items in an array you would have to use a loop
 
 # Decisions and Loops
 

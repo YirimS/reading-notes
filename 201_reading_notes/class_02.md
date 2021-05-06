@@ -6,7 +6,7 @@ In this read we will be covering the basics of Text, introducing CSS, Basic Java
 
 # Text
 
-When creating a site HTML elements are used and these elements are describedf as heading, subheading, parsgraphs, ect. These elements are called Markups. Semantic Markups dont affect the structure of the page but are used to add extra information to the page. 
+When creating a site HTML elements are used and these elements are described as heading, subheading, paragraphs, ect. These elements are called Markups. Semantic Markups don't affect the structure of the page but are used to add extra information to the page. 
 
 # CSS
 
@@ -17,5 +17,5 @@ Javascript is written using code blocks and are contained using curly brackets {
 
 # decisions and Loops
 
- When you are creating a script for your site you have to first make some decisions on how your code is going to be executed, creating a flow chart can help you plan this, you can then ontrol the flow of data. There are 3 concepts to understand in order to control the workflow.
+ When you are creating a script for your site you have to first make some decisions on how your code is going to be executed, creating a flow chart can help you plan this, you can then control the flow of data. There are 3 concepts to understand in order to control the workflow.
  - evaluations 
