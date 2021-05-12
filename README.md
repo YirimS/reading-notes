@@ -38,7 +38,7 @@ Growth mindstate is the idea that individuals can develop their talents through 
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](class_03.md)
 3. [HTML Links, CSS Layout, JS Functions](class_04.md)
 5. Place Holder
-6. Place Holder
+6. [Problem Domain Objects & Dom](class_06.md)
 7. Place Holder
 8. Place Holder
 9. Place Holder
