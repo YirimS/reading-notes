@@ -4,7 +4,7 @@ When presenting information in a table, you need to thinks in terms of a grid ma
 
 ## What is a table?
 
-A table represents binformation in a grid format. Examplkes of tables include finacial reports, TV schedules, and sports results.
+A table represents binformation in a grid format. Examples of tables include finacial reports, TV schedules, and sports results.
 
 Basic table structure:
 
@@ -15,7 +15,7 @@ the table element is used to create a table. The contents of the table are writt
 You indicate the start of each row using the opening < tr > tag (the tr stands for table row.)  It is folowed by one or more < td > elements(one for each cell in a row.)
 
 < td >
-Each cell of a table is reprewsented using the < td > element (the td stands for table data.)
+Each cell of a table is represented using the < td > element (the td stands for table data.)
 
 < th >
 This element is used just like the < td > but it's purpose is to represent the heading for either a columbn or row (the th stands for table head.)

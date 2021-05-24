@@ -10,22 +10,22 @@ When adding an image you'll need to add the correct element tags.
   This tag tells the browser where it can find the image file.
 
   - < alt >
-  This porovides a text description of the image which describes the image if you cannot see it.
+  This provides a text description of the image which describes the image if you cannot see it.
 
   - title
-  you can also use tyhe title attribute with the < Img > element to provide additional information about the image.
+  you can also use the title attribute with the < Img > element to provide additional information about the image.
 
 # Colors 
 
-Colors help bring your webpage to life. You can specify your colors using three common ways you can specify your colors. Understand color teminology can be helpful when it comes to picking colors. Using contrast can ensure that your text is readable. You can also use background colors behind your whole page or certain parts of the page. color pickers can help you find the colors you want. it is important to ensure there is enough contrast between any text and background color, otherwise people will not be abale to read your page.
+Colors help bring your webpage to life. You can specify your colors using three common ways you can specify your colors. Understanding color terminology can be helpful when it comes to picking colors. Using contrast can ensure that your text is readable. You can also use background colors behind your whole page or certain parts of the page. color pickers can help you find the colors you want. it is important to ensure there is enough contrast between any text and background color, otherwise people will not be abale to read your page.
 
 # Text
 
-The properties that allow you to conteolk the appearance of text can be split into two groups.
+The properties that allow you to control the appearance of text can be split into two groups.
 
-- Those who directly affect the font and appearance (including the typeface, wheather it is regular, bold or italic, and thenm the size if the text)
+- Those who directly affect the font and appearance (including the typeface, wheather it is regular, bold or italic, and then the size of the text)
 
-- Those that would have the same affecton text no matter what font you were using (including the coloir iof the text abnd spacing between words and letters)
+- Those that would have the same affect on text no matter what font you were using (including the color of the text abnd spacing between words and letters)
 
 Though there is a limited choice of fonts that most people will have installed, It is encouraged that you dive deeper and explore the many different typefaces, styles and fonts.
 don't be afraid to explore how you can control the space between lines of text, individual letters, and words. you can also align text to left, right, center or justified.
