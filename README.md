@@ -48,3 +48,9 @@ Growth mindstate is the idea that individuals can develop their talents through 
 13. [Read 14](class_14.md)
 14. [CSS Transforms, Transitions, and Animations](class_14a.md)
 15. [What Google Learned From Its Quest to Build the Perfect Team](class_14b.md)
+
+## 301 Reding Notes 
+1. [Introduction to React and Components](class-01.md)
+2. 
+3. 
+4. [React and Forms](class-04.md)
