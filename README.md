@@ -54,3 +54,4 @@ Growth mindstate is the idea that individuals can develop their talents through 
 2. 
 3. 
 4. [React and Forms](class-04.md)
+[Thinking in React](clasd-05.md)
