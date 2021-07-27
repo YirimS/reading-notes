@@ -8,7 +8,7 @@ When breaking a mock into components the first thing you’ll want to do is to d
 
  the single responsibility principle is that a component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents. 
 
-when you are mapping out your page and have compartmentalized and put your components in boxes,using the seperate responsibility principle your component structure will then be mapped out nicely.
+when you are mapping out your page and have compartmentalized and put your components in boxes, using the separate responsibility principle your component structure will then be mapped out nicely.
 
 
 3. What does it mean to build a ‘static’ version of your application?
